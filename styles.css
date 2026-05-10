@@ -603,6 +603,8 @@ nav {
     outline: 2px solid var(--gold);
     margin-bottom: 50px;
     padding: 50px;
+    margin: 30px;
+    padding: 30px;
     float: top;
     display: flex;
     flex-wrap: wrap;
