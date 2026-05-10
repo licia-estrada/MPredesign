@@ -445,7 +445,7 @@ nav {
 
 .mission-container { 
     padding: 50px; 
-    margin-bottom: 50px;
+    margin: 50px;
     display: flex; 
     clear: both;
     width: auto;
@@ -603,8 +603,7 @@ nav {
     outline: 2px solid var(--gold);
     margin-bottom: 50px;
     padding: 50px;
-    margin: 30px;
-    padding: 30px;
+    margin: 50px;
     float: top;
     display: flex;
     flex-wrap: wrap;
